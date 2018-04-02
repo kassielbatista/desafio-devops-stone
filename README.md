@@ -25,8 +25,6 @@ What you must know about the app:
 
 Here are some of the checkpoints to guide you through this challenge, you **don't need to do all of them**, but do as much as you can. They **are not** in any particular order, use your analytical skills to prioritize them.
 
-- [ ] You must deploy a Jenkins application on any cloud service you chose.
-- [ ] Your Jenkins server must be public so we can access with a user that you will provide (with administrator privilege please!).
 - [ ] You must use slaves to run your builds on Jenkins.
 - [ ] You must create a Jenkins job that will deploy your app.
 - [ ] Your job must use continuous integration approach.
